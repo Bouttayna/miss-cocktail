@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'better_errors'
 gem 'pg'
 gem 'bootstrap-sass'
 gem 'font-awesome-sass'
