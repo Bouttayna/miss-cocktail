@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'figaro'
 gem 'better_errors'
 gem 'pg'
 gem 'bootstrap-sass'
